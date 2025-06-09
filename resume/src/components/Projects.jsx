@@ -7,29 +7,29 @@ const Projects = () => {
   const placeholderProjects = [
     {
       id: 1,
-      name: "Portfolio Website",
-      description: "A responsive portfolio website built with React and CSS",
-      html_url: "https://github.com/aggeloskolitsis/portfolio",
+      name: "Resume Website",
+      description: "A responsive resume website built with React and CSS",
+      html_url: "https://github.com/AggelosK004/resume",
       language: "JavaScript"
     },
     {
       id: 2,
-      name: "E-commerce App",
-      description: "Full-stack e-commerce application with modern UI/UX",
-      html_url: "https://github.com/aggeloskolitsis/ecommerce-app",
+      name: "Wallpaper Catalogue",
+      description: "A variety-filled wallpaper catalogue with downloadable images(unfinished)",
+      html_url: "https://github.com/AggelosK004/Wallpaper-Catalogue",
       language: "React"
     },
     {
       id: 3,
-      name: "Task Management Tool",
-      description: "A collaborative task management application",
+      name: "",
+      description: "",
       html_url: "https://github.com/aggeloskolitsis/task-manager",
       language: "JavaScript"
     },
     {
       id: 4,
-      name: "Weather Dashboard",
-      description: "Real-time weather dashboard with beautiful visualizations",
+      name: "",
+      description: "",
       html_url: "https://github.com/aggeloskolitsis/weather-dashboard",
       language: "React"
     }
