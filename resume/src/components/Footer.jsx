@@ -8,7 +8,7 @@ const Footer = () => {
           <p>&copy; 2024 Aggelos Kolitsis. All rights reserved.</p>
           <div className="contact-links">
             <a 
-              href="https://github.com/aggeloskolitsis" 
+              href="https://github.com/AggelosK004" 
               target="_blank" 
               rel="noopener noreferrer"
               className="contact-link"
