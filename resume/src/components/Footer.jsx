@@ -24,7 +24,7 @@ const Footer = () => {
               LinkedIn
             </a>
             <a 
-              href="mailto:aggelos.kolitsis@email.com" 
+              href="mailto:aggelosk2004@gmail.com" 
               className="contact-link"
             >
               Email
